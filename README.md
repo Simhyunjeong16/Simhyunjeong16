@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=160&section=header&text=Sim%20Hyunjeong&fontAlign=50&fontAlignY=60&fontSize=90&fontColor=000000)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=160&section=header&text=Sim%20Hyunjeong&fontAlign=50&fontAlignY=60&fontSize=90&fontColor=000000) -->
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
