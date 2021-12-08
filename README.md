@@ -28,6 +28,7 @@
 </p>
 <h4 align="left"> database </h4>
 <p align="left">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-square&logo=postgresql&logoColor=white"/></a>&nbsp 
 </p>
