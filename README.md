@@ -15,15 +15,8 @@
 <h4 align="left"> back-end </h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-square&logo=Spring Boot&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-square&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-square&logo=Spring&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-</p>
-<h4 align="left"> front-end </h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-square&logo=react&logoColor=%2361DAFB"/></a> &nbsp
 </p>
 <h4 align="left"> database </h4>
 <p align="left">
@@ -34,9 +27,7 @@
 </p>
 <h4 align="left"> etc </h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-square&logo=Android&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-square&logo=linux&logoColor=black"/></a> &nbsp
 </p>
 
